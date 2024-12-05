@@ -432,7 +432,7 @@ CREATE TABLE `wp_users` (
 --
 
 INSERT INTO `wp_users` (`ID`, `user_login`, `user_pass`, `user_nicename`, `user_email`, `user_url`, `user_registered`, `user_activation_key`, `user_status`, `display_name`) VALUES
-(1, 'tecnologia@anato.org', '$P$BzddN9vGZ8o5W9bkg9hZNGccMxHqv7.', 'tecnologiaanato-org', 'tecnologia@anato.org', 'http://localhost/prueba/prueba', '2024-12-04 21:49:39', '', 0, 'tecnologia@anato.org');
+(1, 'tecnologia@anato.org', '$P$Bjukb3QWWh9IvlJViiruoYrRxS52pT1', 'tecnologiaanato-org', 'tecnologia@anato.org', 'http://localhost/prueba/prueba', '2024-12-04 21:49:39', '', 0, 'tecnologia@anato.org');
 
 --
 -- Índices para tablas volcadas
